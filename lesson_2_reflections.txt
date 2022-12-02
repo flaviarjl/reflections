@@ -13,3 +13,28 @@ How can you use the staging area to make sure you have one commit per logical
 change?
 	Adicionando separadamente os arquivos referentes a cada mudança lógica e
 	fazendo o commit por mudança lógica.
+
+What are some situations when branches would be helpful in keeping your
+history organized? How would branches help?
+	Mudanças experimentais ou temporarias ficam separadas do código
+	principal.
+
+How do the diagrams help you visualize the branch structure?
+	Os diagramas facilitam muito, porque fica mais clara a relação
+	e distribuição dos vários ramos existentes.
+
+What is the result of merging two branches together? Why do we represent it in
+the diagram the way we do?
+	O resultado é a soma das alterações em ambos os arquivos, de forma a
+	manter o que foi implementado em duas situações diferentes, talvez até
+	feito por duas pessoas diferentes.
+
+What are the pros and cons of Git's automatic merging vs. always doing merges
+manually?
+	Não sei se entendi bem a pergunta. O merge automático facilita muito em
+	casos mais simples, mas quando a situação é mais complexa ele não
+	consegue resolver a situação e, nesse caso, é necessário o merge manual.
+	Ainda assim a ferramenta facilita o trabalho apontando os pontos exatos
+	de conflito para que o desenvolvedor tome as decisões.
+
+
