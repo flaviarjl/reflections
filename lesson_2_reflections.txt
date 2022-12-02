@@ -3,4 +3,9 @@ What happens when you initialize a repository? Why do you need to do it?
 	de versões dos arquivos presentes no repositório. É necessário porque,
 	pelo que entendo, é, efetivamente, como serão manipulados os arquivos.
 
-	
+How is the staging area different from the working directory and the
+repository? What value do you think it offers?
+	Ela é diferente porque agrupa arquivos a serem salvos juntos. Ela até
+	pode conter todos os arquivos do diretório, mas não necessariamente isso
+	vai acontecer. Varia de acordo com o caso.
+
