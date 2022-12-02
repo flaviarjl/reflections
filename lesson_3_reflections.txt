@@ -1,1 +1,13 @@
 When would you want to create a remote repository rather than keeping all your work local?
+	O repositório remoto facilita o trabalho feito de diferentes lugares
+	e por diferentes pessoas. Um pessoa pode continuar o trabalho de casa e
+	do escritório, e pessoas em cidades ou países diferentes podem trabalhar
+	nos mesmos arquivos.
+
+Why might you want to always pull changes manually rather than having Git
+automatically stay up-to-date with your remote repository?
+	Se entendi bem, porque fazendo manualmente eu escolho o que atualizar e
+	qual o melhor momento para puxar para o meu computador o que está no
+	repositório remoto.
+
+
