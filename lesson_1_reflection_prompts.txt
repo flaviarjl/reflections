@@ -1,0 +1,45 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    Fazendo a comparação de dois arquivos o erro se destaca do resto e fica 
+    muito mais fácil de visualizar do que procurar linha a linha.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    Não sei. Talvez perceber mudanças recorrentes, ou rever versões mais
+    antigas e desfazer alterações posteriores.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    Pro eu vejo que quem está desenvolvendo consegue ter uma melhor ideia do
+    momento certo, do código estar pronto para compilar e rodar, e contra 
+    tem a questão do julgamento, deixar passar a oportunidade e acumular
+    alterações para um único commit.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Porque o tipo de arquivo e de uso varia. No caso de códigos de programação
+    faz todo sentido fazer o controle de múltiplos arquivos, mas no caso de 
+    documentos de texto não existe a necessidade. Resumindo, depende do uso.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    Com o git log eu posso ver todas as versões, com os ids e as descrições,
+    e com o git diff posso visualizar efetivamente as alterações feitas.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    O controle de versões me permite identificar com facilidade o ponto em que
+    o problema surgiu e identificar a alteração que causou o problema, e assim
+    fazer a correção.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    Ainda não tenho códigos para testar, que é onde seria mais útil, então
+    não sei.
+    

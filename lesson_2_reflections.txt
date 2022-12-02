@@ -1,0 +1,6 @@
+What happens when you initialize a repository? Why do you need to do it?
+	É criada uma pasta com os arquivos de controle que lidarão com o controle
+	de versões dos arquivos presentes no repositório. É necessário porque,
+	pelo que entendo, é, efetivamente, como serão manipulados os arquivos.
+
+	
