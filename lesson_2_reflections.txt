@@ -9,3 +9,7 @@ repository? What value do you think it offers?
 	pode conter todos os arquivos do diretório, mas não necessariamente isso
 	vai acontecer. Varia de acordo com o caso.
 
+How can you use the staging area to make sure you have one commit per logical
+change?
+	Adicionando separadamente os arquivos referentes a cada mudança lógica e
+	fazendo o commit por mudança lógica.
