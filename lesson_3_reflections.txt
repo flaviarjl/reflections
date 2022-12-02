@@ -10,4 +10,15 @@ automatically stay up-to-date with your remote repository?
 	qual o melhor momento para puxar para o meu computador o que está no
 	repositório remoto.
 
+Describe the differences between forks, clones, and branches. When would you
+use one instead of another?
+	Branch eu usaria quando quero implementar uma nova funcionalidade em um
+	código que é meu ou de uma equipe com a qual trabalho e partilho o projeto
+	em questão. Clone quando quero copiar um projeto em diferentes situações,
+	ou exercícios, como o que foi feito no início do curso, ou código aberto
+	que quero usar para experimentações. O fork vejo como o clone, mas numa
+	situação mais formal, em que deve ficar registrada a origem do código que
+	copiei e no qual estou trabalhando. Vejo o fork muito como um clone, mas
+	mais formal e profissional.
+
 
